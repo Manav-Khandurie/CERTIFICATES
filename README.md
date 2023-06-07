@@ -1,2 +1,2 @@
 # CERTIFICATES
-A repo with all of my certificates made for easy access
+A repository with all of my certificates , made for easy access and mantainence
